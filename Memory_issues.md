@@ -46,4 +46,4 @@ Memory Issues
 
 #### Executing train_dataset.take(1) jumps the RAM by about 4-5 GB more or less same as the dataset size.
 #### Max RAM usage is 20 GB before deleting the above arrays and datasets and running train_dataset.take(1) shown in the snapshot
-[!image](memory_usage_snapshot.png)
+![image](memory_usage_snapshot.png)
