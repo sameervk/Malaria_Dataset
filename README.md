@@ -42,4 +42,4 @@ Issues
 
 	http://blog.datumbox.com/the-batch-normalization-layer-of-keras-is-broken/
 
-* This issues is apparently specific to using pretrained models for transfer learning.
+* These issues is apparently specific to using pretrained models for transfer learning.
